@@ -1,0 +1,40 @@
+{
+    "Employee":[
+        {
+            "Name":"Amrutha",
+            "DOB":"8 may 1997",
+            "Height":"155cm",
+            "City name":"Bengaluru",
+            "State":"Karnataka"
+
+        },
+        {
+            "Name":"Sarath",
+            "DOB":"17 december 1993",
+            "Height":"165cm",
+            "City name":"Bengaluru",
+            "State":"Karnataka"   
+        },
+        {
+            "Name":"Anand",
+            "DOB":"10 june 1998",
+            "Height":"165cm",
+            "City name":"Kottayam",
+            "State":"Kerala"
+        },
+        {
+            "Name":"Ajith",
+            "DOB":"3 may 2001",
+            "Height":"168cm",
+            "City name":"Eranakulam",
+            "State":"Kerala"
+        },
+        {
+            "Name":"Rahman",
+            "DOB":"11 may 1983",
+            "Height":"165cm",
+            "City name":"Kannur",
+            "State":"Kerala"
+        }
+    ]
+}
